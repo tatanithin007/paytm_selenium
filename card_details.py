@@ -1,4 +1,4 @@
-card_num='5129670510138741'
-cvv='224'
+card_num='***'
+cvv='**'
 expriry_month= '08'
 expiry_date='23'

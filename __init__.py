@@ -27,7 +27,7 @@ driver.session_id = "82889b2d10caf26a00b1664bf799c268"
 driver.get("https://paytm.com/credit-card-bill-payment")
 time.sleep(20)
 
-driver.find_element_by_xpath('/html/body/div[1]/div/div[4]/div[1]/div[1]/div/div[2]/div[1]/ul/li/div/input').send_keys("5593420006608246")
+driver.find_element_by_xpath('/html/body/div[1]/div/div[4]/div[1]/div[1]/div/div[2]/div[1]/ul/li/div/input').send_keys("")
 time.sleep(2)
 driver.find_element_by_xpath('/html/body/div[1]/div/div[4]/div[1]/div[1]/div/div[2]/div[1]/ul/li[2]/div[1]/div/input').send_keys("1999")
 
